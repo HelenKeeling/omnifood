@@ -275,7 +275,9 @@ header {
 /*--------------------------------------------------------------- */
 
 
-
+.section-steps{
+    background-color: #f4f4f4;
+}
 .steps-box:first-child {
     text-align: right;
     padding-right: 3%;
@@ -322,5 +324,30 @@ header {
     height: 50px;
     width: auto;
     margin-right: 10px;
+    
+}
+
+/*--------------------------------------------------------------- */
+/* CITIES /* 
+/*--------------------------------------------------------------- */
+
+.box img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    
+}
+
+.citie-feature {
+    margin-bottom: 5px;
+    
+}
+
+.icon-small {
+    color: #e67e22;
+    display: inline-block;
+    text-align: center;
+    width: 30px;
+    
     
 }
