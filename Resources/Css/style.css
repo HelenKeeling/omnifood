@@ -426,3 +426,27 @@ a:active{
     transition: border-bottom 0.2s, color 0.2s;
     
 }
+
+
+
+/*--------------------------------------------------------------- */
+/* SIGN UP  /* 
+/*--------------------------------------------------------------- */
+
+
+.section-plans {
+    background-color: #f4f4f4;
+    
+}
+
+.plan-box{
+    background-color: #fff;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 5%;
+    
+}
+
+.plan-box div{
+    
+}
