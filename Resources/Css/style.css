@@ -415,7 +415,6 @@ blockquote:before{
 /* LINKS /* 
 /*--------------------------------------------------------------- */
 
-
 a:link,
 a:visited{
     color: #e67e22;
@@ -437,7 +436,7 @@ a:active{
 /*--------------------------------------------------------------- */
 
 .section-plans{
-    background-color: 'f4f4f4;
+    background-color: 'f4f4f4';
         
 }
 
