@@ -7,13 +7,15 @@
     box-sizing: border-box;
 }
 
-html {    
+html,
+body {    
     background-color: #fff;
     color: #505050; 
     font-family: 'Lato', 'Arial', sans-serif;
     font-weight: 300;
     font-size: 20px;
     text-rendering: optimizeLegibility;
+    overflow-x: hidden;
  }
 
 .clearfix{zoom: 1}
@@ -229,10 +231,7 @@ header {
 /*--------------------------------------------------------------- */
 /* FEATURES /* 
 /*--------------------------------------------------------------- */
-.section-features .long-copy {
-    
-    margin-bottom: 30px;
-}
+.section-features .long-copy {margin-bottom: 30px;}
 /*--------------------------------------------------------------- */
 /* MEALS /* 
 /*--------------------------------------------------------------- */
@@ -373,7 +372,6 @@ header {
 .section-testimonials{
     background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url(Img/back-customers.jpg);
     background-size: cover;
-    
     color: #fff;
     background-attachment: fixed;
     
